@@ -21,7 +21,7 @@ To contribute to this application, follow these steps:
 
 License
 
-This application is licensed under the MIT License - see the LICENSE file for details.
+This application is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 Menü Üzerinden Sayfa Kontrolü

@@ -22,9 +22,11 @@ To contribute to this application, follow these steps:
 License
 
 This application is licensed under the MIT License - see the LICENSE file for details.
-1# UserControlMenuWpf!
+
+
 Menü Üzerinden Sayfa Kontrolü
 
+##Kullanım
 Ekranın sol üst köşesinde bulunan düğmeye tıklayarak menüyü açın.
 Seçenekler listesini kaydırarak istediğiniz sayfaya tıklayın.
 Sayfa yüklenip ekranda görüntülenecektir.
